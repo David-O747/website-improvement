@@ -1,5 +1,4 @@
-# website-improvement
-Responsive website with improved UI/UX, bug fixes, and enhanced JavaScript form validation for better interactivity and design.
+
 # 📝 Final Exam Blog Website
 
 A responsive and animated blog-style website project featuring interactive UI components, stylish transitions, and a fully functional contact form with real-time JavaScript validation.
